@@ -1,0 +1,101 @@
+﻿CustomerID, FirstName, LastName, Email, Phone, City, Country
+1, Benjamin, Allen, Benjamin.Allen@2218.com, +1 234-555-3149, New Orleans, Cambodia
+2, James, Carter, James.Carter@9740.com, +1 416-555-3417, Kansas City, Cameroon
+3, Joseph, Hall, Joseph.Hall@6147.com, +1 408-555-6454, Wichita, Armenia
+4, Jacob, Wilson, Jacob.Wilson@2915.com, +1 846-555-2001, Detroit, Comoros
+5, Joseph, Gonzalez, Joseph.Gonzalez@3254.com, +1 883-555-2490, Detroit, Belgium
+6, Timothy, King, Timothy.King@7960.com, +1 329-555-7468, Kansas City, Australia
+7, Andrew, Walker, Andrew.Walker@6608.com, +1 168-555-7111, Jacksonville, Belarus
+8, Christopher, Lewis, Christopher.Lewis@8924.com, +1 140-555-5599, San Antonio, Canada
+9, Samuel, Ramirez, Samuel.Ramirez@8560.com, +1 264-555-5257, Columbus, Belize
+10, Justin, King, Justin.King@8047.com, +1 293-555-1751, Mesa, Bosnia and Herzegovina
+11, Jonathan, Taylor, Jonathan.Taylor@2338.com, +1 361-555-7710, Charlotte, Costa Rica
+12, Timothy, Campbell, Timothy.Campbell@6372.com, +1 943-555-6443, Phoenix, Democratic Republic of the Congo
+13, Gary, Taylor, Gary.Taylor@8817.com, +1 345-555-5424, San Diego, Chad
+14, Andrew, Davis, Andrew.Davis@8716.com, +1 687-555-2983, Oakland, Djibouti
+15, Gregory, Adams, Gregory.Adams@8136.com, +1 140-555-8032, New Orleans, Colombia
+16, Kenneth, Allen, Kenneth.Allen@2222.com, +1 601-555-8153, Fort Worth, Cambodia
+17, Jeffrey, Thompson, Jeffrey.Thompson@2156.com, +1 386-555-9303, Baltimore, Azerbaijan
+18, Edward, Miller, Edward.Miller@8576.com, +1 238-555-4589, Kansas City, Algeria
+19, William, Mitchell, William.Mitchell@7031.com, +1 937-555-2396, Long Beach, Croatia
+20, Samuel, King, Samuel.King@6801.com, +1 508-555-7929, Oklahoma City, Democratic Republic of the Congo
+21, Dennis, Johnson, Dennis.Johnson@9249.com, +1 652-555-7843, Fresno, Democratic Republic of the Congo
+22, Steven, Baker, Steven.Baker@8074.com, +1 399-555-9357, Boston, Denmark
+23, John, Allen, John.Allen@3635.com, +1 959-555-9604, Albuquerque, Barbados
+24, Steven, Sanchez, Steven.Sanchez@3480.com, +1 993-555-4133, Tampa, Albania
+25, Brian, Carter, Brian.Carter@5862.com, +1 116-555-9521, Detroit, Dominican Republic
+26, Paul, Wilson, Paul.Wilson@5477.com, +1 918-555-6029, Detroit, Bhutan
+27, Brian, Perez, Brian.Perez@3825.com, +1 146-555-1575, Portland, Barbados
+28, Larry, Phillips, Larry.Phillips@4157.com, +1 350-555-1427, Nashville, Cyprus
+29, Brian, Gonzalez, Brian.Gonzalez@3721.com, +1 527-555-8886, Columbus, Cameroon
+30, Thomas, Roberts, Thomas.Roberts@6824.com, +1 592-555-3676, Arlington, Denmark
+31, Brandon, Ramirez, Brandon.Ramirez@5142.com, +1 449-555-6035, Sacramento, Dominica
+32, Joseph, Lee, Joseph.Lee@8894.com, +1 898-555-7962, Fort Worth, Canada
+33, Joshua, Robinson, Joshua.Robinson@1624.com, +1 263-555-4369, Portland, Angola
+34, Matthew, Jackson, Matthew.Jackson@9640.com, +1 562-555-4629, Columbus, Brazil
+35, Jack, Jackson, Jack.Jackson@2927.com, +1 300-555-6515, Memphis, Algeria
+36, Timothy, Phillips, Timothy.Phillips@7170.com, +1 764-555-8449, Arlington, Algeria
+37, Raymond, Lopez, Raymond.Lopez@1654.com, +1 902-555-8513, Chicago, Austria
+38, Scott, Smith, Scott.Smith@5110.com, +1 863-555-7578, Atlanta, Croatia
+39, Anthony, Martin, Anthony.Martin@2450.com, +1 899-555-3320, Atlanta, Cyprus
+40, Nicholas, Smith, Nicholas.Smith@1590.com, +1 400-555-2334, Tucson, Bahrain
+41, Scott, Perez, Scott.Perez@2390.com, +1 496-555-7396, Omaha, Chad
+42, Robert, Moore, Robert.Moore@2837.com, +1 890-555-4440, Houston, Djibouti
+43, Samuel, Miller, Samuel.Miller@7342.com, +1 922-555-7689, Seattle, Czechia (Czech Republic)
+44, Jeffrey, Anderson, Jeffrey.Anderson@1888.com, +1 700-555-7703, Oakland, Central African Republic
+45, Jason, Evans, Jason.Evans@5387.com, +1 455-555-1945, San Antonio, Belarus
+46, Frank, Lee, Frank.Lee@4272.com, +1 814-555-3338, El Paso, Croatia
+47, Patrick, Harris, Patrick.Harris@8492.com, +1 985-555-9606, Miami, Comoros
+48, Joseph, Harris, Joseph.Harris@9693.com, +1 940-555-9987, Milwaukee, Algeria
+49, Charles, Harris, Charles.Harris@4103.com, +1 721-555-2061, Phoenix, Cuba
+50, Jeffrey, Davis, Jeffrey.Davis@1546.com, +1 248-555-3478, Oklahoma City, Colombia
+51, Richard, Martin, Richard.Martin@9682.com, +1 541-555-4685, Oklahoma City, Comoros
+52, David, Jones, David.Jones@7294.com, +1 589-555-8233, Denver, Chad
+53, Jerry, Gonzalez, Jerry.Gonzalez@2982.com, +1 728-555-6168, Omaha, Burkina Faso
+54, Alexander, Hall, Alexander.Hall@5925.com, +1 954-555-8616, Portland, Botswana
+55, Christopher, Williams, Christopher.Williams@2918.com, +1 271-555-1519, Dallas, Belize
+56, John, Hill, John.Hill@4774.com, +1 847-555-2357, Detroit, Angola
+57, Jerry, Robinson, Jerry.Robinson@7453.com, +1 297-555-4012, Minneapolis, Chile
+58, Frank, Martinez, Frank.Martinez@2693.com, +1 155-555-5178, Indianapolis, Bangladesh
+59, Jacob, Jones, Jacob.Jones@9139.com, +1 816-555-5992, San Antonio, Chad
+60, Jack, Young, Jack.Young@2693.com, +1 833-555-8865, Atlanta, Chile
+61, Benjamin, Young, Benjamin.Young@9860.com, +1 733-555-9547, Las Vegas, Cambodia
+62, Anthony, Harris, Anthony.Harris@4754.com, +1 884-555-6082, Milwaukee, Bosnia and Herzegovina
+63, Scott, Hall, Scott.Hall@1882.com, +1 670-555-9186, Minneapolis, Brazil
+64, James, Perez, James.Perez@9341.com, +1 915-555-4420, El Paso, Colombia
+65, Ryan, Jackson, Ryan.Jackson@8070.com, +1 628-555-2780, Oakland, Angola
+66, Jerry, Hernandez, Jerry.Hernandez@1374.com, +1 563-555-1120, Denver, Djibouti
+67, Jack, Martin, Jack.Martin@7845.com, +1 759-555-5052, Columbus, Czechia (Czech Republic)
+68, Kenneth, Rodriguez, Kenneth.Rodriguez@2175.com, +1 239-555-6748, Memphis, Cyprus
+69, Gregory, Taylor, Gregory.Taylor@2642.com, +1 859-555-3206, Houston, Central African Republic
+70, Andrew, Johnson, Andrew.Johnson@6058.com, +1 417-555-8383, Oakland, Bhutan
+71, Ryan, Mitchell, Ryan.Mitchell@4314.com, +1 204-555-6233, Chicago, Brazil
+72, Brandon, Thomas, Brandon.Thomas@5832.com, +1 496-555-6164, Albuquerque, Brazil
+73, George, Jones, George.Jones@1020.com, +1 236-555-2397, Boston, Botswana
+74, Patrick, Green, Patrick.Green@4663.com, +1 553-555-6984, Denver, Democratic Republic of the Congo
+75, Michael, Johnson, Michael.Johnson@3008.com, +1 637-555-8181, Philadelphia, Algeria
+76, Donald, Adams, Donald.Adams@3055.com, +1 956-555-9869, Raleigh, Cyprus
+77, Gary, Phillips, Gary.Phillips@6064.com, +1 544-555-9655, Portland, Andorra
+78, Thomas, Torres, Thomas.Torres@7383.com, +1 831-555-5721, San Antonio, Costa Rica
+79, Nicholas, White, Nicholas.White@8193.com, +1 870-555-6064, Baltimore, Barbados
+80, Daniel, Allen, Daniel.Allen@1762.com, +1 425-555-6460, Raleigh, Bahamas
+81, Kenneth, Phillips, Kenneth.Phillips@5770.com, +1 626-555-2516, New York, Benin
+82, Brian, Martinez, Brian.Martinez@4885.com, +1 350-555-7676, Virginia Beach, Djibouti
+83, Charles, Ramirez, Charles.Ramirez@3952.com, +1 281-555-1555, Seattle, Bulgaria
+84, John, King, John.King@8516.com, +1 548-555-5668, San Antonio, Bulgaria
+85, Raymond, Smith, Raymond.Smith@9705.com, +1 550-555-1899, Fort Worth, Djibouti
+86, Raymond, Ramirez, Raymond.Ramirez@5835.com, +1 840-555-4740, San Diego, Andorra
+87, Daniel, Smith, Daniel.Smith@9011.com, +1 175-555-3964, Raleigh, Canada
+88, Thomas, Adams, Thomas.Adams@3432.com, +1 777-555-2842, San Diego, Costa Rica
+89, Charles, Thomas, Charles.Thomas@6012.com, +1 593-555-9633, Denver, Chile
+90, Richard, Turner, Richard.Turner@8496.com, +1 404-555-4270, Jacksonville, Bahamas
+91, Matthew, Lopez, Matthew.Lopez@4710.com, +1 333-555-1111, Virginia Beach, Brunei
+92, John, Jackson, John.Jackson@2161.com, +1 455-555-1376, Colorado Springs, Denmark
+93, Alexander, Gonzalez, Alexander.Gonzalez@5938.com, +1 741-555-1552, Austin, Dominica
+94, William, Scott, William.Scott@1524.com, +1 515-555-7155, Tucson, Croatia
+95, Kevin, Scott, Kevin.Scott@1452.com, +1 448-555-9140, Minneapolis, Canada
+96, Nicholas, King, Nicholas.King@9700.com, +1 328-555-1057, Portland, Albania
+97, Thomas, Smith, Thomas.Smith@2088.com, +1 963-555-6662, Sacramento, CÃ´te d'Ivoire
+98, Timothy, White, Timothy.White@2118.com, +1 475-555-6699, Indianapolis, Colombia
+99, Michael, Williams, Michael.Williams@7264.com, +1 745-555-2879, Sacramento, Bulgaria
+100, David, Davis, David.Davis@3952.com, +1 101-555-4199, Oakland, Comoros

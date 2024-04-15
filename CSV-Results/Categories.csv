@@ -1,0 +1,51 @@
+CategoryID, CategoryName, SubCategoryName, ProductID
+1, Electronics, Laptops, 50
+2, Office, Sweaters, 23
+3, School, Refrigerators, 34
+4, Patio, Cutlery, 23
+5, Patio, Microwaves, 95
+6, Beauty, Monitors, 45
+7, Books, Cabinets, 92
+8, Beverages, Drones, 83
+9, Electronics, Bookcases, 73
+10, Jewelry, Tables, 88
+11, Kid, Game Consoles, 89
+12, Spa, Refrigerators, 43
+13, Patio, Beds, 64
+14, Spa, Handbags, 80
+15, Patio, T-Shirts, 44
+16, Grill, Dishwashers, 95
+17, Beauty, Wallets, 11
+18, Computers, Dishwashers, 81
+19, Art, Tables, 46
+20, Home, Bakeware, 55
+21, Bath, Curtains, 50
+22, Outdoor Living, Sandals, 60
+23, Baby, Bookcases, 66
+24, Cooking, Hats, 74
+25, Movies, Laptops, 97
+26, Photography, Desktops, 76
+27, Bedding, Watches, 83
+28, Home, Sneakers, 26
+29, Furniture, Desktops, 25
+30, Teen, Chairs, 59
+31, Toys, Running Shoes, 21
+32, Music, Hats, 4
+33, Grocery, Dishwashers, 85
+34, Grill, Headphones, 57
+35, Patio, Small Kitchen Appliances, 39
+36, Adult, Microwaves, 97
+37, Games, T-Shirts, 77
+38, Health, Running Shoes, 86
+39, Health, Game Consoles, 28
+40, Furniture, Monitors, 28
+41, Movies, Washing Machines, 69
+42, Beauty, Cameras, 99
+43, School, Hats, 94
+44, Adult, Game Consoles, 93
+45, Outdoors, Belts, 19
+46, Outdoors, Ovens, 94
+47, Grill, Sandals, 82
+48, School, Sunglasses, 53
+49, Furniture, T-Shirts, 53
+50, Movies, Tables, 82

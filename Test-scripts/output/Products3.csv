@@ -1,0 +1,101 @@
+﻿ProductID, ProductName, CategoryID, Price, PriceRange, StockQuantity, StockQuantityStatus
+1, Hydro Flask Water Bottle, 21, 5503, Premium, 44, Low
+2, Samsung Galaxy Watch 3, 34, 5129, Premium, 835, High
+3, GoPro HERO9 Black, 39, 1869, Mid-Range, 40, Low
+4, Dell XPS 13, 25, 7204, Premium, 890, High
+5, Amazon Echo Dot (4th Gen), 18, 8659, Premium, 804, High
+6, Ninja Foodi Deluxe, 7, 539, Budget, 882, High
+7, iPad Pro, 43, 6536, Premium, 895, High
+8, Patagonia Better Sweater, 40, 9434, Premium, 772, High
+9, Roku Streaming Stick+, 1, 203, Budget, 62, Low
+10, Apple MacBook Pro, 44, 2619, Mid-Range, 820, High
+11, The North Face Borealis Backpack, 6, 6282, Premium, 888, High
+12, Patagonia Better Sweater, 13, 1420, Mid-Range, 210, Medium
+13, Apple AirPods Pro, 21, 3358, Mid-Range, 120, Medium
+14, iPad Pro, 22, 2194, Mid-Range, 567, High
+15, KitchenAid Artisan Series 5-Qt., 13, 7252, Premium, 753, High
+16, iRobot Roomba 675, 36, 5637, Premium, 77, Low
+17, Kindle Paperwhite, 3, 823, Budget, 999, High
+18, Sony PlayStation 5, 9, 2461, Mid-Range, 241, Medium
+19, Apple Watch Series 6, 14, 1483, Mid-Range, 92, Low
+20, Cuisinart TOA-60, 45, 9564, Premium, 846, High
+21, LG CX OLED, 38, 7991, Premium, 565, High
+22, Apple MacBook Pro, 5, 8685, Premium, 68, Low
+23, Samsung Galaxy Watch 3, 5, 8244, Premium, 405, Medium
+24, Apple iPhone 12, 39, 1406, Mid-Range, 126, Medium
+25, Samsung QN85A Neo QLED 4K TV, 13, 953, Budget, 190, Medium
+26, Ray-Ban Original Wayfarer, 18, 676, Budget, 448, Medium
+27, Apple Magic Keyboard, 11, 2801, Mid-Range, 571, High
+28, Google Nest Hub, 26, 650, Budget, 721, High
+29, Keurig K-Classic, 17, 8714, Premium, 3, Low
+30, KitchenAid Artisan Series 5-Qt., 17, 8957, Premium, 933, High
+31, HP OfficeJet Pro 9015, 6, 7446, Premium, 296, Medium
+32, GoPro HERO9 Black, 39, 4332, Mid-Range, 288, Medium
+33, Fitbit Charge 4, 18, 4747, Mid-Range, 332, Medium
+34, Hydro Flask Water Bottle, 38, 812, Budget, 763, High
+35, DJI Mavic Air 2, 40, 5409, Premium, 632, High
+36, WD My Passport SSD, 25, 8636, Premium, 378, Medium
+37, Fitbit Charge 4, 37, 522, Budget, 599, High
+38, Microsoft Surface Pro 7, 25, 9334, Premium, 720, High
+39, Apple iPhone 12, 40, 3554, Mid-Range, 25, Low
+40, Dell XPS 13, 20, 35, Budget, 410, Medium
+41, Sony PlayStation 5, 20, 5964, Premium, 21, Low
+42, Sony WH-1000XM4, 16, 2076, Mid-Range, 75, Low
+43, GoPro HERO9 Black, 46, 5537, Premium, 988, High
+44, Hydro Flask Water Bottle, 38, 9044, Premium, 292, Medium
+45, Nike Air Force 1, 7, 6388, Premium, 521, High
+46, KitchenAid Artisan Series 5-Qt., 6, 8279, Premium, 649, High
+47, WD My Passport SSD, 3, 6446, Premium, 862, High
+48, Nike Air Force 1, 32, 6584, Premium, 387, Medium
+49, Samsung QN85A Neo QLED 4K TV, 26, 3827, Mid-Range, 32, Low
+50, Amazon Echo Dot (4th Gen), 2, 2024, Mid-Range, 635, High
+51, Samsung Galaxy Watch 3, 21, 4375, Mid-Range, 634, High
+52, Apple MacBook Pro, 40, 2522, Mid-Range, 502, High
+53, Microsoft Xbox Series X, 17, 243, Budget, 470, Medium
+54, Apple Magic Keyboard, 16, 8534, Premium, 182, Medium
+55, Nike Air Force 1, 28, 3759, Mid-Range, 84, Low
+56, Bose SoundLink Revolve, 3, 7328, Premium, 642, High
+57, Apple AirPods Pro, 26, 9639, Premium, 352, Medium
+58, Microsoft Xbox Series X, 32, 8254, Premium, 119, Medium
+59, HP OfficeJet Pro 9015, 35, 6969, Premium, 412, Medium
+60, Nikon D3500, 32, 8176, Premium, 421, Medium
+61, Google Nest Hub, 22, 7798, Premium, 574, High
+62, Apple iPhone 12, 11, 3398, Mid-Range, 530, High
+63, Apple AirPods Pro, 23, 1269, Mid-Range, 175, Medium
+64, Le Creuset Dutch Oven, 31, 4648, Mid-Range, 599, High
+65, Instant Pot Duo Nova, 12, 6375, Premium, 713, High
+66, Apple iPhone 12, 30, 6194, Premium, 98, Low
+67, Samsung QN85A Neo QLED 4K TV, 22, 9019, Premium, 882, High
+68, Kindle Paperwhite, 49, 6103, Premium, 407, Medium
+69, iRobot Roomba 675, 34, 3506, Mid-Range, 435, Medium
+70, Samsung Galaxy S21, 22, 9506, Premium, 794, High
+71, Hydro Flask Water Bottle, 36, 8388, Premium, 993, High
+72, Apple AirPods Pro, 37, 2966, Mid-Range, 224, Medium
+73, Adidas Ultraboost 21, 43, 7468, Premium, 945, High
+74, Samsung QN85A Neo QLED 4K TV, 16, 9651, Premium, 126, Medium
+75, Apple iPhone 12, 34, 7262, Premium, 978, High
+76, Roku Streaming Stick+, 15, 2650, Mid-Range, 602, High
+77, Patagonia Better Sweater, 31, 3211, Mid-Range, 651, High
+78, LG CX OLED, 7, 6489, Premium, 302, Medium
+79, Amazon Echo Dot (4th Gen), 14, 1991, Mid-Range, 433, Medium
+80, Apple Magic Keyboard, 19, 4534, Mid-Range, 841, High
+81, Apple iPhone 12, 20, 573, Budget, 794, High
+82, UGG Women's Classic Short II Boot, 40, 5959, Premium, 921, High
+83, Bose SoundLink Revolve, 44, 3200, Mid-Range, 387, Medium
+84, Nikon D3500, 34, 9916, Premium, 895, High
+85, Samsung Galaxy S21, 46, 7752, Premium, 197, Medium
+86, Samsung QN85A Neo QLED 4K TV, 4, 6652, Premium, 385, Medium
+87, Dyson V11 Torque Drive, 34, 2173, Mid-Range, 748, High
+88, GoPro HERO9 Black, 28, 2556, Mid-Range, 48, Low
+89, Fitbit Charge 4, 49, 94, Budget, 340, Medium
+90, Hydro Flask Water Bottle, 11, 8178, Premium, 246, Medium
+91, Apple AirPods Pro, 42, 9354, Premium, 312, Medium
+92, Apple Watch Series 6, 4, 483, Budget, 57, Low
+93, WD My Passport SSD, 45, 1386, Mid-Range, 900, High
+94, Google Nest Hub, 28, 9471, Premium, 907, High
+95, Ray-Ban Original Wayfarer, 26, 2907, Mid-Range, 936, High
+96, Hydro Flask Water Bottle, 24, 8595, Premium, 853, High
+97, Nikon D3500, 16, 2397, Mid-Range, 861, High
+98, Samsung Galaxy S21, 12, 9311, Premium, 891, High
+99, Apple Magic Keyboard, 5, 5049, Premium, 917, High
+100, HP OfficeJet Pro 9015, 3, 9599, Premium, 240, Medium

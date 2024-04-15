@@ -1,0 +1,101 @@
+ProductID, ProductName, CategoryID, Price, PriceRange, StockQuantity, StockQuantityStatus
+1, DJI Mavic Air 2, 9, 5113, Premium, 621, High
+2, YETI Rambler 20 oz Tumbler, 9, 9187, Premium, 158, Medium
+3, Nike Air Force 1, 42, 5614, Premium, 861, High
+4, Keurig K-Classic, 21, 2076, Mid-Range, 213, Medium
+5, Samsung Galaxy Watch 3, 34, 8579, Premium, 125, Medium
+6, Apple Magic Keyboard, 43, 8532, Premium, 515, High
+7, Fitbit Charge 4, 45, 1107, Mid-Range, 331, Medium
+8, Instant Pot Duo Nova, 4, 1790, Mid-Range, 678, High
+9, Apple Watch Series 6, 1, 2668, Mid-Range, 248, Medium
+10, Apple iPhone 12, 6, 4263, Mid-Range, 649, High
+11, Google Nest Hub, 37, 2483, Mid-Range, 823, High
+12, Nikon D3500, 41, 5944, Premium, 931, High
+13, Sony A8H OLED TV, 48, 2812, Mid-Range, 129, Medium
+14, Apple Magic Keyboard, 43, 7213, Premium, 714, High
+15, Dell XPS 13, 8, 3909, Mid-Range, 30, Low
+16, Apple Magic Keyboard, 22, 5352, Premium, 137, Medium
+17, Apple Watch Series 6, 29, 6597, Premium, 893, High
+18, HP OfficeJet Pro 9015, 25, 3942, Mid-Range, 102, Medium
+19, Apple Watch Series 6, 46, 362, Budget, 428, Medium
+20, Le Creuset Dutch Oven, 44, 623, Budget, 756, High
+21, GoPro HERO9 Black, 6, 178, Budget, 681, High
+22, Samsung T7 Touch Portable SSD, 9, 5773, Premium, 287, Medium
+23, Apple AirPods Pro, 46, 9308, Premium, 522, High
+24, Adidas Ultraboost 21, 42, 7332, Premium, 389, Medium
+25, Canon EOS M50 Mark II, 16, 4243, Mid-Range, 596, High
+26, UGG Women's Classic Short II Boot, 31, 8501, Premium, 444, Medium
+27, Microsoft Surface Pro 7, 44, 2225, Mid-Range, 764, High
+28, Bose QuietComfort 35 II, 28, 9508, Premium, 507, High
+29, Le Creuset Dutch Oven, 28, 5118, Premium, 152, Medium
+30, LG CX OLED, 36, 921, Budget, 506, High
+31, Amazon Echo Dot (4th Gen), 17, 7952, Premium, 722, High
+32, YETI Rambler 20 oz Tumbler, 48, 8588, Premium, 909, High
+33, KitchenAid Artisan Series 5-Qt., 36, 4128, Mid-Range, 950, High
+34, Nintendo Switch, 34, 6098, Premium, 94, Low
+35, Keurig K-Classic, 34, 617, Budget, 136, Medium
+36, Samsung Galaxy Watch 3, 26, 4020, Mid-Range, 719, High
+37, WD My Passport SSD, 34, 533, Budget, 292, Medium
+38, Sony A8H OLED TV, 20, 4525, Mid-Range, 131, Medium
+39, Nikon D3500, 8, 9473, Premium, 258, Medium
+40, LG CX OLED, 18, 5073, Premium, 761, High
+41, Ray-Ban Original Wayfarer, 28, 2747, Mid-Range, 569, High
+42, Fitbit Charge 4, 23, 3267, Mid-Range, 622, High
+43, Apple iPhone 12, 38, 3306, Mid-Range, 82, Low
+44, Dell XPS 13, 23, 8699, Premium, 939, High
+45, Canon EOS M50 Mark II, 21, 8132, Premium, 114, Medium
+46, Sonos Arc, 37, 2022, Mid-Range, 112, Medium
+47, KitchenAid Artisan Series 5-Qt., 4, 65, Budget, 138, Medium
+48, Fitbit Charge 4, 5, 4856, Mid-Range, 944, High
+49, Cuisinart TOA-60, 45, 3101, Mid-Range, 682, High
+50, Roku Streaming Stick+, 13, 974, Budget, 268, Medium
+51, UGG Women's Classic Short II Boot, 44, 2587, Mid-Range, 810, High
+52, Microsoft Xbox Series X, 39, 4397, Mid-Range, 402, Medium
+53, Canon PIXMA TR4520, 44, 3429, Mid-Range, 297, Medium
+54, LG CX OLED, 14, 2109, Mid-Range, 241, Medium
+55, Apple Watch Series 6, 39, 1687, Mid-Range, 535, High
+56, Samsung QN85A Neo QLED 4K TV, 38, 6478, Premium, 264, Medium
+57, iPad Pro, 46, 8586, Premium, 569, High
+58, Cuisinart TOA-60, 34, 9487, Premium, 152, Medium
+59, Apple AirPods Pro, 5, 8400, Premium, 758, High
+60, Nintendo Switch, 37, 3216, Mid-Range, 781, High
+61, Microsoft Xbox Series X, 30, 8055, Premium, 794, High
+62, Apple MacBook Pro, 14, 352, Budget, 7, Low
+63, Roku Streaming Stick+, 49, 3818, Mid-Range, 961, High
+64, DJI Mavic Air 2, 15, 7298, Premium, 478, Medium
+65, Apple MacBook Pro, 17, 7572, Premium, 723, High
+66, Ray-Ban Original Wayfarer, 27, 2609, Mid-Range, 970, High
+67, Logitech MX Master 3, 28, 1781, Mid-Range, 725, High
+68, Dyson V11 Torque Drive, 6, 8346, Premium, 187, Medium
+69, Ninja Foodi Deluxe, 26, 2999, Mid-Range, 213, Medium
+70, Microsoft Surface Pro 7, 10, 9420, Premium, 785, High
+71, HP OfficeJet Pro 9015, 11, 2388, Mid-Range, 963, High
+72, HP OfficeJet Pro 9015, 41, 2788, Mid-Range, 211, Medium
+73, Roku Streaming Stick+, 25, 7240, Premium, 309, Medium
+74, Le Creuset Dutch Oven, 13, 7399, Premium, 729, High
+75, Instant Pot Duo Nova, 41, 9894, Premium, 427, Medium
+76, Sony A8H OLED TV, 39, 2098, Mid-Range, 492, Medium
+77, iRobot Roomba 675, 38, 702, Budget, 468, Medium
+78, KitchenAid Artisan Series 5-Qt., 25, 1055, Mid-Range, 912, High
+79, Sony WH-1000XM4, 6, 347, Budget, 965, High
+80, Sony PlayStation 5, 10, 1009, Mid-Range, 116, Medium
+81, Sony WH-1000XM4, 6, 7746, Premium, 987, High
+82, Kindle Paperwhite, 21, 9479, Premium, 772, High
+83, Apple Watch Series 6, 39, 7548, Premium, 449, Medium
+84, Apple AirPods Pro, 25, 5469, Premium, 709, High
+85, WD My Passport SSD, 38, 8266, Premium, 104, Medium
+86, Ninja Foodi Deluxe, 16, 9644, Premium, 748, High
+87, Fitbit Charge 4, 33, 9205, Premium, 434, Medium
+88, Canon EOS M50 Mark II, 10, 6829, Premium, 793, High
+89, Apple MacBook Pro, 20, 9267, Premium, 576, High
+90, Sony A8H OLED TV, 1, 889, Budget, 487, Medium
+91, GoPro HERO9 Black, 45, 5044, Premium, 86, Low
+92, GoPro HERO9 Black, 44, 9708, Premium, 470, Medium
+93, Sonos Arc, 34, 9333, Premium, 708, High
+94, WD My Passport SSD, 36, 1867, Mid-Range, 995, High
+95, Canon EOS M50 Mark II, 7, 1618, Mid-Range, 171, Medium
+96, Bose SoundLink Revolve, 12, 1484, Mid-Range, 386, Medium
+97, Le Creuset Dutch Oven, 13, 4042, Mid-Range, 237, Medium
+98, Roku Streaming Stick+, 18, 5070, Premium, 932, High
+99, Samsung QN85A Neo QLED 4K TV, 19, 5186, Premium, 162, Medium
+100, Cuisinart TOA-60, 46, 7482, Premium, 609, High

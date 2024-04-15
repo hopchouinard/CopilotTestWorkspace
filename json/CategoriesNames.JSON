@@ -1,0 +1,14 @@
+{
+    "categories": [
+        "Books", "Electronics", "Home", "Garden", "Grocery",
+        "Health", "Beauty", "Toys", "Clothing", "Shoes",
+        "Jewelry", "Sports", "Outdoors", "Automotive", "Industrial",
+        "Movies", "Music", "Games", "Computers", "Office",
+        "School", "Pet Supplies", "Crafts", "Collectibles", "Art",
+        "Photography", "Baby", "Kid", "Teen", "Adult",
+        "Senior", "Cooking", "Baking", "Beverages", "Alcohol",
+        "Furniture", "Bedding", "Bath", "Appliances", "Tools",
+        "Hardware", "Building", "Outdoor Living", "Lawn", "Garden",
+        "Patio", "Grill", "Firepit", "Pool", "Spa"
+    ]
+}

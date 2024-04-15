@@ -1,0 +1,14 @@
+{
+    "subCategories": [
+        "Mobile Phones", "Laptops", "Tablets", "Desktops", "Monitors",
+        "Printers", "Scanners", "Game Consoles", "Televisions", "Speakers",
+        "Headphones", "Cameras", "Drones", "Washing Machines", "Refrigerators",
+        "Microwaves", "Ovens", "Dishwashers", "Air Conditioners", "Heaters",
+        "Sofas", "Beds", "Tables", "Chairs", "Cabinets",
+        "Bookcases", "Rugs", "Lamps", "Curtains", "Mirrors",
+        "Running Shoes", "Sneakers", "Boots", "Sandals", "Belts",
+        "Handbags", "Wallets", "Watches", "Sunglasses", "Hats",
+        "T-Shirts", "Jeans", "Dresses", "Jackets", "Sweaters",
+        "Cookware", "Cutlery", "Glassware", "Bakeware", "Small Kitchen Appliances"
+    ]
+}
